@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0054e88f9f8ef404baca72f4cc379429
+timeCreated: 1549569535
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 30
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cosmic Alien
+  fontNames:
+  - Cosmic Alien
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
